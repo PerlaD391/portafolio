@@ -6,7 +6,7 @@
 
 **Repositorio:** [https://github.com/PerlaD391/portafolio](https://github.com/PerlaD391/portafolio)
 
-**Demo en vivo:** [https://tu-usuario.github.io/portafolio-web/](https://tu-usuario.github.io/portafolio-web/)
+**Demo en vivo:** [https://perlad391.github.io/portafolio/](https://perlad391.github.io/portafolio/)
 
 ---
 
